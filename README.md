@@ -31,7 +31,8 @@ v5249cbb44955c1cstate
 
 Note: there is no slash as prefix so you won't be able to see the board messages by subscribing to "/#"
 
-
+## Digital IO pins
+I did get the digital inputs working. I think reading the manual (which I did not have at the time of writing) should be enough to do it.
 
 ## Flashing
 flash the board by putting INT pin LOW and connecting power. Then use Flash Magic (Windows only, I'm afraid) to send the hex file in attached folder
